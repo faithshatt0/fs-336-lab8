@@ -3,7 +3,7 @@
 
 include '../dbConnection.php';
 
-$conn = connectToDB("lab8_user");
+$conn = connectToDB("lab8");
 
 $username = $_GET['username'];
 
