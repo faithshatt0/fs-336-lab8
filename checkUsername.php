@@ -1,7 +1,7 @@
 <?php
 //my web_api
 
-include '../dbConnection.php';
+include 'dbConnection.php';
 
 $conn = connectToDB("lab8");
 
